@@ -1,0 +1,17 @@
+# Company-provided or event-level data
+alikeaudience_data_test.csv
+*.parquet
+outputs/simple/*.csv
+
+# Bulk external reference datasets
+reference/geography/*.geojson
+reference/geography/*.zip
+reference/ip/history/*.csv
+reference/ip/history/asn/*.gz
+
+# Notebook and Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/

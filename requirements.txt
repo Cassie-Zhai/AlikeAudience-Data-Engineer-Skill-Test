@@ -1,0 +1,14 @@
+pandas==3.0.1
+numpy==2.3.5
+pyarrow==25.0.1
+matplotlib==3.11.1
+shapely==2.1.2
+scipy==1.18.1
+h3==4.5.0
+timezonefinder==8.3.0
+timezonefinder-data==1.2026.3
+tzdata==2026.3
+holidays==0.104
+ua-parser==1.0.2
+ua-parser-builtins==202606
+ipykernel==7.3.0
